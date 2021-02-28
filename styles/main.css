@@ -1,3 +1,23 @@
+body {
+  background-color: bisque !important;
+}
+
 .my-custom-image-style {
   border-radius: 400px !important;
+}
+
+.custom-font-1 {
+  font-family: "RocknRoll One", sans-serif !important;
+}
+
+.custom-font-2 {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn btn-danger {
+  box-shadow: darkred;
+}
+
+.btn btn-danger:hover {
+  transition: ease-in;
 }
